@@ -1,5 +1,5 @@
-# Spring-boot Banking
-Example project demonstrating the use of Java and Spring-boot to build a microservice to be used by an online bank
+# Spring-boot eNAM
+Example project demonstrating the use of Java and Spring-boot to build a microservice to be used by an online bank to perform transaction
 
 ## Running locally
 ```
@@ -16,7 +16,7 @@ docker build -t "spring-boot:banking" .
 ```
 
 ```
-docker run -p 8080:8080 spring-boot:banking
+docker run -p 8080:8080 spring-boot:eNAM
 ```
 
 ## Testing
