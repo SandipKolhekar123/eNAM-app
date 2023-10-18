@@ -1,5 +1,5 @@
-# Spring-boot eNAM
-Example project demonstrating the use of Java and Spring-boot to build a microservice to be used by an online bank to perform transaction
+# Spring-boot eNAM project
+Example project demonstrating the use of Java and Spring-boot to build a microservice to be used by an online agriculture market to perform transaction
 
 ## Running locally
 ```
