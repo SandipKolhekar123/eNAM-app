@@ -15,11 +15,20 @@ spring:
       ddl-auto: create
 server:
   port: 8080
-
 <script>
 
+#demo for git stash command
+
+//BUG 121 fixing going on...
+function HandlerDemo(){
+	let a = 43+ 45;
+	//work in progrss.....
+}
+
+
+
 #Now Handling BUG122 due to priority 
-//
+
 function add(){
     let x = 12;
     let y = 45;
@@ -28,3 +37,4 @@ function add(){
 }
 
 </script>
+
