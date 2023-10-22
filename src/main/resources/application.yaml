@@ -15,3 +15,16 @@ spring:
       ddl-auto: create
 server:
   port: 8080
+
+<script>
+
+#Now Handling BUG122 due to priority 
+//
+function add(){
+    let x = 12;
+    let y = 45;
+    let z = x + y;
+    console.log("Outtput:"+z);
+}
+
+</script>
