@@ -17,6 +17,8 @@ server:
   port: 8080
 <script>
 
++++++++++++++++++First+++++++++++++++++++++++
+
 #demo for git stash command
 
 //BUG 121 fixing going on...
@@ -39,22 +41,26 @@ function add(){
 </script>
 
 
++++++++++++++++second++++++++++++++++++++++++++++++
 
+#working on user model
+public class User{
+ String userName;
+ String userEmaol;
+ String userPhone;
+ Address userAddress;
 
-
-
-
-
-
-
-
-
-
-
+}
 
 
 #urgent working on UserAauth Model
 public class UserAuth{
  private String userName;
  private String userPassword;
+ 
 }
+
+
+
+
+
