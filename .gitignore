@@ -13,7 +13,7 @@ target/
 .sts4-cache
 
 ### custom files ignored ###
-/Hello.txt
+Hello.txt
 
 ### IntelliJ IDEA ###
 .idea
