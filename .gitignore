@@ -12,7 +12,8 @@ target/
 .springBeans
 .sts4-cache
 
-
+### custom files ignored ###
+.txt
 
 ### IntelliJ IDEA ###
 .idea
